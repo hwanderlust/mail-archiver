@@ -1,25 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+
+import Emails from "components/emails";
+import Search from "components/search";
+import { Provider } from "context";
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider>
+      <div className="container">
+        <div className="contents">
+          <div className="search__wrapper">
+            <Search />
+          </div>
+          <div className="emails__wrapper">
+            <Emails />
+          </div>
+        </div>
+      </div>
+    </Provider>
   );
 }
 

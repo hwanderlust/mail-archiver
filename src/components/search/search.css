@@ -1,0 +1,67 @@
+.search {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px solid rgba(200, 200, 200, 0.8);
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+  position: relative;
+}
+.search__icon {
+  width: 20px;
+  height: 20px;
+}
+.search__date {
+  display: inline-flex;
+  flex: 1;
+}
+.date__calendar {
+  margin: 0 0.5rem;
+  background-color: transparent;
+  border: none;
+}
+.search__button {
+  height: 100%;
+  width: 50px;
+  margin: 0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.results {
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.7);
+}
+.results__num {
+  font-size: 1.3rem;
+}
+.results__line {
+  width: 100%;
+  background-color: rgba(200, 200, 200, 0.8);
+}
+
+.day-picker__input {
+  border: none;
+  width: 100%;
+}
+
+/* mobile */
+@media only screen and (max-width: 720px) {
+.results__line {
+    position: absolute;
+    left: 0;
+    height: 1px;
+  }
+}
+
+/* desktop */
+@media only screen and (min-width: 720px) {
+ .results__line {
+    height: 2px;
+  }
+}

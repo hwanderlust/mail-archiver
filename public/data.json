@@ -1,0 +1,231 @@
+[
+  [
+    {
+      "id": "1a",
+      "from": "aaa@example.com",
+      "to": [
+        "zzz.zzz@example.com"
+      ],
+      "cc": [],
+      "subject": "[ HR-888 ] Notice of official announcement",
+      "body": "Dear Zebra, \n\nWe're sorry to inform you due to the coronavirus pandemic we have decided to cut everyone's wages in an effort to keep everyone on the payroll and employed. Please understand and contact us with any concerns.\n\nSincerely,\nHR",
+      "date": "Thu Jan 02 2020 00:20:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "2a",
+      "from": "bbb.internet@example.com",
+      "to": [
+        "yyy@example.com"
+      ],
+      "cc": [],
+      "subject": "[web:333] \"Web Contact\"",
+      "body": "To whomever it may concern,\n\nSomeone has attempted to contact you on our web client. Please login to check and reply at your own disclosure.",
+      "date": "Thu Jan 02 2020 00:10:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "3a",
+      "from": "ccc@example.com",
+      "to": [
+        "xxx@example.com",
+        "abc@example.com"
+      ],
+      "cc": [],
+      "subject": "Happy New Year! Greetings for the New Year.",
+      "body": "Wishing you a Trumpless holiday!",
+      "date": "Thu Jan 02 2020 00:00:05 GMT-0500",
+      "attachment": true
+    }
+  ],
+  [
+    {
+      "id": "4a",
+      "from": "ccc@example.com",
+      "to": [
+        "xxx@example.com",
+        "abc@example.com"
+      ],
+      "cc": [],
+      "subject": "Happy New Year! Greetings for the New Year.",
+      "body": "Wishing you a Trumpless holiday!",
+      "date": "Wed Jan 01 2020 12:20:00 GMT-0500",
+      "attachment": true
+    }
+  ],
+  [
+    {
+      "id": "5a",
+      "from": "ddd.dddd@example.com",
+      "to": [
+        "vvv.vvv@example.com",
+        "123@example.com"
+      ],
+      "cc": [],
+      "subject": "[HR-887(Revised: Office Expansion Project Team)] Notice of office expansion",
+      "body": "As you may have heard you and your team will be temporarily moving until the construction of our office floor expansion is completed. Please gather your belongings in the box provided and place on top of your desk by EOD today to be moved by staff.",
+      "date": "Wed Jan 01 2020 09:20:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "6a",
+      "from": "ddd.dddd@example.com",
+      "to": [
+        "vvv.vvv@example.com",
+        "123@example.com"
+      ],
+      "cc": [],
+      "subject": "[HR-887(Revised: Office Expansion Project Team)] Notice of office expansion",
+      "body": "ajksdhflkjashdfsadf oops",
+      "date": "Wed Jan 01 2020 10:20:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "7a",
+      "from": "eee@example.com",
+      "to": [
+        "sss@example.com",
+        "456@example.com"
+      ],
+      "cc": [],
+      "subject": "[Github] Logout page",
+      "body": "You were logged out.\n\nIf this wasn't you, please change your password immediately and review other account information.",
+      "date": "Tue Dec 31 2019 15:20:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "8a",
+      "from": "eee@example.com",
+      "to": [
+        "sss@example.com",
+        "456@example.com"
+      ],
+      "cc": [],
+      "subject": "[Github] Logout page",
+      "body": "blahhhhh",
+      "date": "Tue Dec 31 2019 18:20:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "9a",
+      "from": "eee@example.com",
+      "to": [
+        "sss@example.com",
+        "456@example.com"
+      ],
+      "cc": [],
+      "subject": "[Github] Logout page",
+      "body": "asdf",
+      "date": "Wed Jan 01 2020 06:20:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "10a",
+      "from": "fff.ffff@example.com",
+      "to": [
+        "qqq.qqq@example.com"
+      ],
+      "cc": [
+        "123@example.com"
+      ],
+      "subject": "［dev］ Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+      "body": "8937374 commit we did a fix",
+      "date": "Wed Jan 01 2020 04:20:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "11a",
+      "from": "ppp.qqq@example.com",
+      "to": [
+        "ggg.ffff@example.com"
+      ],
+      "cc": [],
+      "subject": "[Github] Brush-up on loading animation",
+      "body": "9767863 commit finally fixed bug",
+      "date": "Mon Dec 30 2019 13:50:00 GMT-0500",
+      "attachment": false
+    },
+    {
+      "id": "11b",
+      "from": "ggg.ffff@example.com",
+      "to": [
+        "ppp.qqq@example.com"
+      ],
+      "cc": [],
+      "subject": "Re: [Github] Brush-up on loading animation",
+      "body": "woop woop",
+      "date": "Wed Jan 01 2020 03:30:00 GMT-0500",
+      "attachment": false
+    }
+  ],
+  [
+    {
+      "id": "12a",
+      "from": "hhh.ffff@example.com",
+      "to": [],
+      "cc": [
+        "ooo.qqq@example.com"
+      ],
+      "subject": "Workplace Summary for sample, Inc.: Jun 2 - Jun 9",
+      "body": "idk",
+      "date": "Wed Jan 01 2020 01:10:59 GMT-0500",
+      "attachment": true
+    }
+  ],
+  [
+    {
+      "id": "13a",
+      "from": "iii.ffff@example.com",
+      "to": [
+        "nnn@example.com"
+      ],
+      "cc": [],
+      "subject": "I love you",
+      "body": "Please marry me!!! <3",
+      "date": "Tue Dec 31 2019 20:58:59 GMT-0500",
+      "attachment": true
+    },
+    {
+      "id": "13b",
+      "from": "nnn@example.com",
+      "to": [
+        "oops@example.com"
+      ],
+      "cc": [],
+      "subject": "Fwd: I love you",
+      "body": "dude, what exactly happened?",
+      "date": "Tue Dec 31 2019 23:58:59 GMT-0500",
+      "attachment": true
+    }
+  ],
+  [
+    {
+      "id": "14a",
+      "from": "Pablo-Diego-José-Francisco@example.com",
+      "to": [
+        "Pablo-Diego-José-Francisco@example.com"
+      ],
+      "cc": [],
+      "subject": "[info:888] ABC EQUIPMENT COMPANY",
+      "body": "useful info for later",
+      "date": "Mon Dec 30 2019 07:18:29 GMT-0500",
+      "attachment": false
+    }
+  ]
+]
